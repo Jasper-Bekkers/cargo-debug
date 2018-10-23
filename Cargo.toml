@@ -1,0 +1,9 @@
+[package]
+name = "cargo-debug"
+version = "0.1.0"
+authors = ["Jasper-Bekkers <bekkers@gmail.com>"]
+
+[dependencies]
+cargo = "0.30.0"
+home = "0.3.3"
+clap = "2"
