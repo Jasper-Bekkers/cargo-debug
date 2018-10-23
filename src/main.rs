@@ -7,7 +7,7 @@ use clap::{App, Arg};
 use std::process::Command;
 
 fn main() {
-    let matches = App::new("My Super Program")
+    let matches = App::new("Cargo-debug")
         .version("0.1")
         .author("Jasper Bekkers. <bekkers@gmail.com>")
         .about("Launch Visual Studio for the current rust project")
